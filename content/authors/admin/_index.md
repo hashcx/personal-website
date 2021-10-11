@@ -41,12 +41,6 @@ email: alhashim.asu@gmail.com
 superuser: true
 highlight_name: true
 ---
-Amin G. Alhashim is a postdoctoral research scholar at the \[Sustainable Learning and Adaptive Technology for Education (SLATE) Lab](https://slatelab.engineering.asu.edu/) which is part of the Human Systems Engineering program in the Polytechnic School of Ira A. Fulton Schools of Engineering.
-
-
-
-professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Amin G. Alhashim is a postdoctoral research scholar at the [Sustainable Learning and Adaptive Technology for Education (SLATE) Lab](https://slatelab.engineering.asu.edu/) which is part of the [Human Systems Engineering program](https://poly.engineering.asu.edu/hse/) in the [Polytechnic School](https://poly.engineering.asu.edu/) of [Ira A. Fulton Schools of Engineering](https://engineering.asu.edu/).
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
