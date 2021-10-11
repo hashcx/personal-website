@@ -28,16 +28,16 @@ organizations:
     url: https://www.asu.edu/
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
+    - course: PhD in Industrial and Systems Engineering
+      institution: University of Oklahoma
+      year: 2021
+    - course: MSc in Computer Science
+      institution: King Fahd University of Petroleum and Minerals
       year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
-email: ""
+    - course: BSc in Computer Science
+      institution: King Fahd University of Petroleum and Minerals
+      year: 2005
+email: alhashim.asu@gmail.com
 superuser: true
 highlight_name: true
 ---
