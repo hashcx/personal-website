@@ -1,6 +1,7 @@
 ---
 title: Amin G. Alhashim
 role: Postdoctoral Research Scholar
+avatar_filename: amin_alhashim.jpg
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 interests:
