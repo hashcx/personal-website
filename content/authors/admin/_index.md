@@ -6,9 +6,8 @@ bio: My research interests include human factors/human-computer interaction/user
   experience, data analytics/learning analytics/natural language processing, and
   education.
 interests:
-  - Human Factors/Human-Computer Interaction/User Experience
-  - Data Analytics/Learning Analytics/Natural Language Processing/Computational
-    Linguistics
+  - Human Factors
+  - Machine Learning
   - Education
 social:
   - icon: envelope
