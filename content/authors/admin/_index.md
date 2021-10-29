@@ -1,5 +1,5 @@
 ---
-title: Amin G. Alhashim
+title: Amin G Alhashim
 role: Postdoctoral Research Scholar
 avatar_filename: avatar.jpg
 bio: My research interests include human factors/human-computer interaction/user
