@@ -16,16 +16,16 @@ social:
     link: alhashim.asu@gmail.com
   - icon: twitter
     icon_pack: fab
-    link: https://twitter.com/AlhashimAminG
+    link: https://twitter.com/alhashimphd
   - icon: graduation-cap
     icon_pack: fas
-    link: https://scholar.google.com/citations?user=nSC2Q7AAAAAJ&hl=en
+    link: https://scholar.google.com/citations?hl=en&user=PN6569sAAAAJ
   - icon: github
     icon_pack: fab
-    link: https://github.com/AlhashimAminG
+    link: https://github.com/alhashimphd
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/in/AlhashimAminG
+    link: https://www.linkedin.com/in/alhashimphd
 organizations:
   - name: Arizona State University
     url: https://www.asu.edu/
@@ -44,6 +44,6 @@ email: alhashim.asu@gmail.com
 superuser: true
 highlight_name: true
 ---
-Amin G Alhashim (Arabic: أمين غ الهاشم, also Romanized as Ameen G Al-Hashim) is currently a postdoctoral research scholar at the [Sustainable Learning and Adaptive Technology for Education (SLATE) Lab](https://slatelab.engineering.asu.edu/) which is part of the [Human Systems Engineering program](https://poly.engineering.asu.edu/hse/) at the [Polytechnic School](https://poly.engineering.asu.edu/) of [Ira A. Fulton Schools of Engineering](https://engineering.asu.edu/) at the [Polytechnic campus](https://campus.asu.edu/polytechnic) of [Arizona State University](https://www.asu.edu/).
+Amin G Alhashim (Arabic: *أمين غ الهاشم*, also [Romanized](https://en.wikipedia.org/wiki/Romanization_of_Arabic) as *Ameen G Al-Hashim*) is currently a postdoctoral research scholar at the [Sustainable Learning and Adaptive Technology for Education (SLATE) Lab](https://slatelab.engineering.asu.edu/) which is part of the [Human Systems Engineering program](https://poly.engineering.asu.edu/hse/) at the [Polytechnic School](https://poly.engineering.asu.edu/) of [Ira A. Fulton Schools of Engineering](https://engineering.asu.edu/) at the [Polytechnic campus](https://campus.asu.edu/polytechnic) of [Arizona State University](https://www.asu.edu/).
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
