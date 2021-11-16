@@ -7,7 +7,7 @@ bio: My research interests include human factors/human-computer interaction/user
   education.
 interests:
   - Human Factors
-  - Data Analytics
+  - Natural Language Processing
   - Education
 social:
   - icon: envelope
