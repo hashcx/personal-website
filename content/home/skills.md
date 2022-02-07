@@ -18,5 +18,5 @@ feature:
     icon_pack: fas
     name: Photography
 widget_id: skills
-active: true
+active: false
 ---
