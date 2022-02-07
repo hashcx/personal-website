@@ -5,7 +5,7 @@ headless: true
 weight: 70
 title: Recent & Upcoming Talks
 subtitle: null
-active: true
+active: false
 content:
   page_type: event
   count: 5
