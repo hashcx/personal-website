@@ -9,8 +9,7 @@ categories: []
 external_link: ""
 url_slides: ""
 title: Example Project
-tags:
-  - Deep Learnin
+tags: []
 links:
   - icon: twitter
     icon_pack: fab
