@@ -6,8 +6,9 @@ bio: My research interests span a wide range of topics, however they always
   revolve around improving the user experience.
 interests:
   - Human Factors
-  - Natural Language Processing
   - Education
+  - Machine Learning
+  - Natural Language Processing
 social:
   - icon: envelope
     icon_pack: fas
