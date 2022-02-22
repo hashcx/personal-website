@@ -5,13 +5,12 @@ url_pdf: ""
 summary: An example of using the in-built project page.
 url_video: ""
 date: 2022-02-22T07:22:04.581Z
-categories:
-  - ASU
+categories: []
 external_link: ""
 url_slides: ""
 title: Example Project
 tags:
-  - Deep Learning; Machine Learning
+  - Deep Learning
 links:
   - icon: twitter
     icon_pack: fab
