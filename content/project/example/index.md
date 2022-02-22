@@ -10,7 +10,7 @@ external_link: ""
 url_slides: ""
 title: Example Project
 tags:
-  - DeepLearning
+  - Deep Learning
 links:
   - icon: twitter
     icon_pack: fab
