@@ -10,7 +10,7 @@ external_link: ""
 url_slides: ""
 title: Example Project
 tags:
-  - Machine Learning
+  - Deep Learnin
 links:
   - icon: twitter
     icon_pack: fab
