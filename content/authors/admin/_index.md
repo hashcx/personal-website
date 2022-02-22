@@ -3,7 +3,7 @@ title: Amin G. Alhashim
 role: Postdoctoral Research Scholar
 avatar_filename: avatar.jpg
 bio: My research interests span a wide range of topics, however they always
-  revolve around improving user experience.
+  revolve around improving the user experience.
 interests:
   - Human Factors
   - Natural Language Processing
