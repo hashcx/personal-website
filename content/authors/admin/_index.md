@@ -1,5 +1,5 @@
 ---
-title: Amin G. Alhashim
+title: Amin G. Alhashim, PhD, 6σ
 role: Postdoctoral Research Scholar
 avatar_filename: avatar.jpg
 bio: My research interests span a wide range of topics, however they always
