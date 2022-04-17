@@ -7,8 +7,8 @@ bio: My research interests span a wide range of topics, however they always
 interests:
   - Applied Human Factors
   - Applied Machine Learning
-  - Natural Language Processing
   - Personalized Learning
+  - Natural Language Processing
   - Pedagogy
   - Learning Analytics
 social:
