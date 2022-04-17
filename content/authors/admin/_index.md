@@ -8,6 +8,7 @@ interests:
   - Applied Human Factors
   - Applied Machine Learning
   - Natural Language Processing
+  - Personalized Learning
   - Pedagogy
   - Learning Analytics
 social:
