@@ -5,8 +5,8 @@ avatar_filename: avatar.jpg
 bio: My research interests span a wide range of topics, however they always
   revolve around improving the user experience.
 interests:
-  - Human Factors
-  - Machine Learning
+  - Applied Human Factors
+  - Applied Machine Learning
   - Natural Language Processing
   - Pedagogy
   - Learning Analytics
