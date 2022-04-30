@@ -6,11 +6,12 @@ bio: My research interests span a wide range of topics, however they always
   revolve around improving the user experience.
 interests:
   - Applied Human Factors
+  - Human-Computer Interaction
+  - Computer Science Education
   - Applied Machine Learning
   - Personalized Learning
   - Natural Language Processing
-  - Pedagogy
-  - Learning Analytics
+  - Learning Analytic
 social:
   - icon: envelope
     icon_pack: fas
