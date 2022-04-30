@@ -11,7 +11,7 @@ interests:
   - Applied Machine Learning
   - Personalized Learning
   - Natural Language Processing
-  - Learning Analytic
+  - Learning Analytics
 social:
   - icon: envelope
     icon_pack: fas
