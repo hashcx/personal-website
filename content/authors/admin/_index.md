@@ -3,7 +3,7 @@ title: Amin G. Alhashim, PhD, 6σ
 role: Postdoctoral Research Scholar
 avatar_filename: avatar.jpg
 bio: Amin's research focuses on improving the user experience by drawing
-  knowledge from different disciplines.
+  knowledge from different disciplines
 interests:
   - Applied Human Factors
   - Human-Computer Interaction
