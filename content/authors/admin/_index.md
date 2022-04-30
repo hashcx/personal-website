@@ -4,7 +4,14 @@ role: Postdoctoral Research Scholar
 avatar_filename: avatar.jpg
 bio: Amin's research focuses on improving the user experience by drawing
   knowledge from different disciplines.
-interests: []
+interests:
+  - Applied Human Factors
+  - Human-Computer Interaction
+  - Computer Science Education
+  - Applied Machine Learning
+  - Personalized Learning
+  - Natural Language Processing
+  - Learning Analytics
 social:
   - icon: envelope
     icon_pack: fas
